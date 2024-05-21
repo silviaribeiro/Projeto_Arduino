@@ -17,3 +17,5 @@ Objetivo principal é medir a distância utilizando um sensor ultrassônico e en
 Diagrama:  
 
 ![image](https://github.com/silviaribeiro/Projeto_Arduino/assets/86807769/a5fe5868-fc29-4933-ade7-b02bafe16458)
+![image](https://github.com/silviaribeiro/Projeto_Arduino/assets/86807769/087ea82d-441f-4a1d-aa12-0566f9b3b19e)
+![image](https://github.com/silviaribeiro/Projeto_Arduino/assets/86807769/2935a2b7-7765-4f1b-94eb-c3498c917baa)
